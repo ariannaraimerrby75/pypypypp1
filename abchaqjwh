@@ -1,6 +1,5 @@
 ÿþ
-þ@ECHO OFF
-@echo off
+þ@echo off
 set eQ=y
 set MA=0
 set RA=D
